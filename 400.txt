@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-vijay india vijay india
-=======
 ashok india ashok india
->>>>>>> master
+
